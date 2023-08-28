@@ -12,6 +12,12 @@ retryOnFailure: true
 maxRetries: 1
 concurrency: 4
 
+    ```bash
+        tunnel: true
+        tunnelOpts:
+            global: true
+    ```
+
 env:
   # PAT: ${{ .secrets.testKey }}
   CACHE_DIR: m2_cache_dir
