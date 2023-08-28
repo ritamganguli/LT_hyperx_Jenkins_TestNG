@@ -11,10 +11,12 @@ retryOnFailure: true
 
 maxRetries: 1
 concurrency: 4
+tunnel: true
 
 env:
   # PAT: ${{ .secrets.testKey }}
   CACHE_DIR: m2_cache_dir
+
 
 cacheKey: '{{ checksum "pom.xml" }}'
 cacheDirectories:

@@ -116,3 +116,178 @@
 {"level":"info","time":"2023-08-28T21:24:50.973+0530","caller":"jobmanager/setup.go:367","msg":"Job Link: https://hyperexecute.lambdatest.com/hyperexecute/task?jobId=2a360f5b-264b-477b-80da-62adb374e0f7\n"}
 {"level":"debug","time":"2023-08-28T21:24:50.973+0530","caller":"cmd/bin.go:255","msg":"main: all goroutines have finished."}
 {"level":"debug","time":"2023-08-28T21:24:50.973+0530","caller":"cmd/bin.go:284","msg":"Go routines exited within timeout"}
+{"level":"debug","time":"2023-08-28T23:00:18.584+0530","caller":"cmd/bin.go:103","msg":"Upstream version: {Name: Min:0.2.106 Max:0.2.106} "}
+{"level":"warn","time":"2023-08-28T23:00:18.587+0530","caller":"globalconfigvalidator/setup.go:35","msg":"Found user credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"warn","time":"2023-08-28T23:00:18.587+0530","caller":"globalconfigvalidator/setup.go:40","msg":"Found key credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"debug","time":"2023-08-28T23:00:20.586+0530","caller":"core/lifecycle.go:101","msg":"Setting environment"}
+{"level":"debug","time":"2023-08-28T23:00:20.586+0530","caller":"core/lifecycle.go:104","msg":"Parsing config"}
+{"level":"debug","time":"2023-08-28T23:00:20.586+0530","caller":"yamlconfigmanager/setup.go:399","msg":"Custom location for .hyperexecute.yaml specified. Using: yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"debug","time":"2023-08-28T23:00:20.586+0530","caller":"yamlconfigmanager/setup.go:75","msg":"using hyperexecute config from : yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"error","time":"2023-08-28T23:00:20.599+0530","caller":"yamlconfigmanager/setup.go:119","msg":"2023-08-28T23:00:14+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"error","time":"2023-08-28T23:00:20.600+0530","caller":"core/lifecycle.go:109","msg":"2023-08-28T23:00:14+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"debug","time":"2023-08-28T23:00:20.600+0530","caller":"cmd/bin.go:295","msg":"Exiting application due to error \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"debug","time":"2023-08-28T23:00:32.180+0530","caller":"cmd/bin.go:103","msg":"Upstream version: {Name: Min:0.2.106 Max:0.2.106} "}
+{"level":"warn","time":"2023-08-28T23:00:32.181+0530","caller":"globalconfigvalidator/setup.go:35","msg":"Found user credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"warn","time":"2023-08-28T23:00:32.181+0530","caller":"globalconfigvalidator/setup.go:40","msg":"Found key credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"debug","time":"2023-08-28T23:00:34.059+0530","caller":"core/lifecycle.go:101","msg":"Setting environment"}
+{"level":"debug","time":"2023-08-28T23:00:34.059+0530","caller":"core/lifecycle.go:104","msg":"Parsing config"}
+{"level":"debug","time":"2023-08-28T23:00:34.059+0530","caller":"yamlconfigmanager/setup.go:399","msg":"Custom location for .hyperexecute.yaml specified. Using: yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"debug","time":"2023-08-28T23:00:34.059+0530","caller":"yamlconfigmanager/setup.go:75","msg":"using hyperexecute config from : yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"error","time":"2023-08-28T23:00:34.059+0530","caller":"yamlconfigmanager/setup.go:119","msg":"2023-08-28T23:00:30+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"error","time":"2023-08-28T23:00:34.059+0530","caller":"core/lifecycle.go:109","msg":"2023-08-28T23:00:30+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"debug","time":"2023-08-28T23:00:34.060+0530","caller":"cmd/bin.go:295","msg":"Exiting application due to error \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"debug","time":"2023-08-28T23:07:23.741+0530","caller":"cmd/bin.go:103","msg":"Upstream version: {Name: Min:0.2.106 Max:0.2.106} "}
+{"level":"warn","time":"2023-08-28T23:07:23.742+0530","caller":"globalconfigvalidator/setup.go:35","msg":"Found user credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"warn","time":"2023-08-28T23:07:23.742+0530","caller":"globalconfigvalidator/setup.go:40","msg":"Found key credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"debug","time":"2023-08-28T23:07:25.627+0530","caller":"core/lifecycle.go:101","msg":"Setting environment"}
+{"level":"debug","time":"2023-08-28T23:07:25.627+0530","caller":"core/lifecycle.go:104","msg":"Parsing config"}
+{"level":"debug","time":"2023-08-28T23:07:25.627+0530","caller":"yamlconfigmanager/setup.go:399","msg":"Custom location for .hyperexecute.yaml specified. Using: yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"debug","time":"2023-08-28T23:07:25.627+0530","caller":"yamlconfigmanager/setup.go:75","msg":"using hyperexecute config from : yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"error","time":"2023-08-28T23:07:25.627+0530","caller":"yamlconfigmanager/setup.go:119","msg":"2023-08-28T23:07:23+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"error","time":"2023-08-28T23:07:25.627+0530","caller":"core/lifecycle.go:109","msg":"2023-08-28T23:07:23+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"debug","time":"2023-08-28T23:07:25.627+0530","caller":"cmd/bin.go:295","msg":"Exiting application due to error \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 15: found character that cannot start any token"}
+{"level":"debug","time":"2023-08-28T23:08:20.544+0530","caller":"cmd/bin.go:103","msg":"Upstream version: {Name: Min:0.2.106 Max:0.2.106} "}
+{"level":"warn","time":"2023-08-28T23:08:20.546+0530","caller":"globalconfigvalidator/setup.go:35","msg":"Found user credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"warn","time":"2023-08-28T23:08:20.546+0530","caller":"globalconfigvalidator/setup.go:40","msg":"Found key credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"debug","time":"2023-08-28T23:08:22.415+0530","caller":"core/lifecycle.go:101","msg":"Setting environment"}
+{"level":"debug","time":"2023-08-28T23:08:22.415+0530","caller":"core/lifecycle.go:104","msg":"Parsing config"}
+{"level":"debug","time":"2023-08-28T23:08:22.415+0530","caller":"yamlconfigmanager/setup.go:399","msg":"Custom location for .hyperexecute.yaml specified. Using: yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"debug","time":"2023-08-28T23:08:22.415+0530","caller":"yamlconfigmanager/setup.go:75","msg":"using hyperexecute config from : yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"error","time":"2023-08-28T23:08:22.416+0530","caller":"yamlconfigmanager/setup.go:119","msg":"2023-08-28T23:08:19+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 16: mapping values are not allowed in this context"}
+{"level":"error","time":"2023-08-28T23:08:22.416+0530","caller":"core/lifecycle.go:109","msg":"2023-08-28T23:08:19+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 16: mapping values are not allowed in this context"}
+{"level":"debug","time":"2023-08-28T23:08:22.416+0530","caller":"cmd/bin.go:295","msg":"Exiting application due to error \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 16: mapping values are not allowed in this context"}
+{"level":"debug","time":"2023-08-28T23:10:56.588+0530","caller":"cmd/bin.go:103","msg":"Upstream version: {Name: Min:0.2.106 Max:0.2.106} "}
+{"level":"warn","time":"2023-08-28T23:10:56.590+0530","caller":"globalconfigvalidator/setup.go:35","msg":"Found user credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"warn","time":"2023-08-28T23:10:56.591+0530","caller":"globalconfigvalidator/setup.go:40","msg":"Found key credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"debug","time":"2023-08-28T23:10:58.474+0530","caller":"core/lifecycle.go:101","msg":"Setting environment"}
+{"level":"debug","time":"2023-08-28T23:10:58.474+0530","caller":"core/lifecycle.go:104","msg":"Parsing config"}
+{"level":"debug","time":"2023-08-28T23:10:58.474+0530","caller":"yamlconfigmanager/setup.go:399","msg":"Custom location for .hyperexecute.yaml specified. Using: yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"debug","time":"2023-08-28T23:10:58.474+0530","caller":"yamlconfigmanager/setup.go:75","msg":"using hyperexecute config from : yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"error","time":"2023-08-28T23:10:58.475+0530","caller":"yamlconfigmanager/setup.go:119","msg":"2023-08-28T23:10:55+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 16: mapping values are not allowed in this context"}
+{"level":"error","time":"2023-08-28T23:10:58.475+0530","caller":"core/lifecycle.go:109","msg":"2023-08-28T23:10:55+05:30    error    \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 16: mapping values are not allowed in this context"}
+{"level":"debug","time":"2023-08-28T23:10:58.504+0530","caller":"cmd/bin.go:295","msg":"Exiting application due to error \u001b[91mERR::PAR::HT_YAML\u001b[0m     Unable to parse hyperexecute yaml. yaml: line 16: mapping values are not allowed in this context"}
+{"level":"debug","time":"2023-08-28T23:13:17.100+0530","caller":"cmd/bin.go:103","msg":"Upstream version: {Name: Min:0.2.106 Max:0.2.106} "}
+{"level":"warn","time":"2023-08-28T23:13:17.102+0530","caller":"globalconfigvalidator/setup.go:35","msg":"Found user credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"warn","time":"2023-08-28T23:13:17.102+0530","caller":"globalconfigvalidator/setup.go:40","msg":"Found key credentials in env and cli flag both, credentials in env will be ignored"}
+{"level":"debug","time":"2023-08-28T23:13:19.716+0530","caller":"core/lifecycle.go:101","msg":"Setting environment"}
+{"level":"debug","time":"2023-08-28T23:13:19.716+0530","caller":"core/lifecycle.go:104","msg":"Parsing config"}
+{"level":"debug","time":"2023-08-28T23:13:19.716+0530","caller":"yamlconfigmanager/setup.go:399","msg":"Custom location for .hyperexecute.yaml specified. Using: yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"debug","time":"2023-08-28T23:13:19.716+0530","caller":"yamlconfigmanager/setup.go:75","msg":"using hyperexecute config from : yaml/win/testng_hyperexecute_autosplit_sample.yaml"}
+{"level":"debug","time":"2023-08-28T23:13:20.666+0530","caller":"yamlconfigmanager/setup.go:1700","msg":"Autodetecting test type in files of path : C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG"}
+{"level":"debug","time":"2023-08-28T23:13:20.667+0530","caller":"yamlconfigmanager/setup.go:795","msg":"valid discovery type provided"}
+{"level":"debug","time":"2023-08-28T23:13:20.667+0530","caller":"yamlconfigmanager/setup.go:350","msg":"Tunnel: true"}
+{"level":"info","time":"2023-08-28T23:13:20.667+0530","caller":"models/HypertestYamlConfig.go:305","msg":"\n\u001b[4m\u001b[1m\u001b[97mExecution Plan\u001b[0m\u001b[0m\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:309","msg":"Mode:    \u001b[36mautosplit\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:348","msg":"Runson:    \u001b[36mwin\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:352","msg":"Concurrency:    \u001b[36m4\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:363","msg":"Framework:"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:364","msg":"    Name:    \u001b[36mmaven/testng\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:369","msg":"    Flags:"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:371","msg":"        \u001b[36m-Dplatname=win\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:396","msg":"    discoveryType:    \u001b[36mmethod\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:403","msg":"Report:    \u001b[36menabled\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:406","msg":"Artefacts:"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:409","msg":"    ExecutionSnapshots:    \u001b[36mtarget/surefire-reports/html/**\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:420","msg":"Cache Directories:"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:422","msg":"    \u001b[36m.m2\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:20.668+0530","caller":"models/HypertestYamlConfig.go:443","msg":""}
+{"level":"debug","time":"2023-08-28T23:13:20.669+0530","caller":"filevalidator/setup.go:46","msg":"Warning: Checking data.json file in current directory, no dataJsonPath found in .hyperexecute.yaml"}
+{"level":"debug","time":"2023-08-28T23:13:20.669+0530","caller":"filevalidator/setup.go:50","msg":"Warning: data.json file doesn't exist"}
+{"level":"debug","time":"2023-08-28T23:13:20.736+0530","caller":"apiserver/setup.go:129","msg":"Starting API server"}
+{"level":"debug","time":"2023-08-28T23:13:20.797+0530","caller":"apiserver/setup.go:98","msg":"Starting API server for test results on port: 9191"}
+{"level":"debug","time":"2023-08-28T23:13:21.660+0530","caller":"java/maven.go:75","msg":"got asset version details &{Name: Min:0.4 Max:0.4}"}
+{"level":"debug","time":"2023-08-28T23:13:24.637+0530","caller":"java/maven.go:107","msg":"java runner already up to date"}
+{"level":"debug","time":"2023-08-28T23:13:24.637+0530","caller":"testdiscoverer/discoverer.go:157","msg":"Running discovery command mvn test -Dframework=testng -Dplatname=win -Dmode=discover -DfailIfNoTests=false"}
+{"level":"debug","time":"2023-08-28T23:13:30.945+0530","caller":"apiserver/setup.go:79","msg":"Tests discovered &{IsTestNGXmlSuite:true DiscoveredItems:[Test3#test3_element_addition_1 Test4#test4_element_addition_1 Test2#test2_element_addition_1 Test1#test1_element_addition_2 Test1#test1_element_addition_1]}"}
+{"level":"debug","time":"2023-08-28T23:13:31.110+0530","caller":"testdiscoverer/discoverer.go:185","msg":"Stdout: [INFO] Scanning for projects...\r\n[INFO] Added surefire 3.0.0-M5 as dependency in effective pom\r\n[INFO] Configured: TestNG_Demo\r\n[INFO] \r\n[INFO] ----------------------< org.example:TestNG_Demo >-----------------------\r\n[INFO] Building TestNG_Demo 1.0-SNAPSHOT\r\n[INFO]   from pom.xml\r\n[INFO] --------------------------------[ jar ]---------------------------------\r\n[WARNING] The POM for org.testng:testng:jar:5.14.3 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details\r\n[WARNING] The POM for org.testng:testng:jar:5.14.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details\r\n[WARNING] The POM for org.testng:testng:jar:5.14.5 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details\r\n[WARNING] The POM for com.beust:jcommander:jar:1.66 is missing, no dependency information available\r\n[INFO] \r\n[INFO] --- resources:3.3.0:resources (default-resources) @ TestNG_Demo ---\r\n[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n[INFO] skip non existing resourceDirectory C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\src\\main\\resources\r\n[INFO] \r\n[INFO] --- compiler:3.7.0:compile (default-compile) @ TestNG_Demo ---\r\n[INFO] No sources to compile\r\n[INFO] \r\n[INFO] --- resources:3.3.0:testResources (default-testResources) @ TestNG_Demo ---\r\n[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!\r\n[INFO] skip non existing resourceDirectory C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\src\\test\\resources\r\n[INFO] \r\n[INFO] --- compiler:3.7.0:testCompile (default-testCompile) @ TestNG_Demo ---\r\n[INFO] Changes detected - recompiling the module!\r\n[WARNING] File encoding has not been set, using platform encoding UTF-8, i.e. build is platform dependent!\r\n[INFO] Compiling 4 source files to C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\target\\test-classes\r\n[INFO] /C:/Users/ritamg/Documents/GitHub/LT_hyperx_Jenkins_TestNG/testNG/src/test/java/Test2.java: Some input files use or override a deprecated API.\r\n[INFO] /C:/Users/ritamg/Documents/GitHub/LT_hyperx_Jenkins_TestNG/testNG/src/test/java/Test2.java: Recompile with -Xlint:deprecation for details.\r\n[INFO] \r\n[INFO] --- surefire:3.0.0-M5:test (default-test) @ TestNG_Demo ---\r\n[INFO] \r\n[INFO] -------------------------------------------------------\r\n[INFO]  T E S T S\r\n[INFO] -------------------------------------------------------\r\n[INFO] Total tests discovered: 5\r\n[INFO] Total suites discovered: 4\r\n[INFO] request body: {\"discoveredItems\":[\"Test3#test3_element_addition_1\",\"Test4#test4_element_addition_1\",\"Test2#test2_element_addition_1\",\"Test1#test1_element_addition_2\",\"Test1#test1_element_addition_1\"],\"testNGXMLSuite\":true}\r\n[INFO] \r\n[INFO] Results:\r\n[INFO] \r\n[INFO] Tests run: 0, Failures: 0, Errors: 0, Skipped: 0\r\n[INFO] \r\n[WARNING] Corrupted STDOUT by directly writing to native stream in forked JVM 1. See FAQ web page and the dump file C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\target\\surefire-reports\\2023-08-28T23-13-29_501-jvmRun1.dumpstream\r\n[INFO] \r\n[INFO] --- surefire:3.0.0-M5:test (default) @ TestNG_Demo ---\r\n[INFO] Skipping execution of surefire because it has already been run for this configuration\r\n[INFO] ------------------------------------------------------------------------\r\n[INFO] BUILD SUCCESS\r\n[INFO] ------------------------------------------------------------------------\r\n[INFO] Total time:  4.250 s\r\n[INFO] Finished at: 2023-08-28T23:13:31+05:30\r\n[INFO] ------------------------------------------------------------------------\r\n[WARNING] \r\n[WARNING] Plugin validation issues were detected in 3 plugin(s)\r\n[WARNING] \r\n[WARNING]  * org.apache.maven.plugins:maven-compiler-plugin:3.7.0\r\n[WARNING]  * org.apache.maven.plugins:maven-surefire-plugin:3.0.0-M5\r\n[WARNING]  * org.apache.maven.plugins:maven-resources-plugin:3.3.0\r\n[WARNING] \r\n[WARNING] For more or less details, use 'maven.plugin.validation' property with one of the values (case insensitive): [BRIEF, DEFAULT, VERBOSE]\r\n[WARNING] \r\n"}
+{"level":"debug","time":"2023-08-28T23:13:31.110+0530","caller":"testdiscoverer/discoverer.go:186","msg":"Stderr: "}
+{"level":"debug","time":"2023-08-28T23:13:31.836+0530","caller":"core/lifecycle.go:380","msg":"Job ID: b38fad4f-46b9-41aa-89e9-c04a3c6556b0"}
+{"level":"info","time":"2023-08-28T23:13:31.836+0530","caller":"core/lifecycle.go:410","msg":"\u001b[102m\u001b[1m\u001b[30mTunnel: ON\u001b[0m\u001b[0m\u001b[0m"}
+{"level":"info","time":"2023-08-28T23:13:31.836+0530","caller":"core/lifecycle.go:443","msg":"Starting 1 tunnels instances"}
+{"level":"debug","time":"2023-08-28T23:13:31.836+0530","caller":"tunnelmanager/setup.go:64","msg":"Download tunnel binary from https://downloads.hyperexecute.cloud/tunnel/v3/windows/amd64/LT.exe"}
+{"level":"debug","time":"2023-08-28T23:13:31.836+0530","caller":"tunnelmanager/setup.go:65","msg":"Tunnel binary download path C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG/LT.exe"}
+{"level":"debug","time":"2023-08-28T23:13:32.454+0530","caller":"storage/azure.go:55","msg":"Payload size: 25.69 kB, source path C:\\Users\\ritamg\\AppData\\Local\\Temp\\git.diff"}
+{"level":"debug","time":"2023-08-28T23:13:35.162+0530","caller":"core/lifecycle.go:466","msg":"Waiting for tunnels to start"}
+{"level":"info","time":"2023-08-28T23:13:35.162+0530","caller":"core/lifecycle.go:467","msg":"Tunnel started successfully"}
+{"level":"debug","time":"2023-08-28T23:13:35.163+0530","caller":"tunnelmanager/setup.go:306","msg":"Creating tunnel instance MtfCbNbzshQWsVsK #1, with params [--user ritamg --key lHWNSA0QECwjeN8DoDb9U6KyXMBgAFXqlIIArkxeOTDSeEdLyG --callbackURL http://127.0.0.1:55767/started --env ht-prod --tunnelName MtfCbNbzshQWsVsK --retry-on-failure --infoAPIPort 55768 --logFile C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\logs\\tunnel\\MtfCbNbzshQWsVsK-1.log]"}
+{"level":"debug","time":"2023-08-28T23:13:42.750+0530","caller":"tunnelmanager/setup.go:172","msg":"Running new tunnel instance MtfCbNbzshQWsVsK"}
+{"level":"debug","time":"2023-08-28T23:13:42.751+0530","caller":"archivemanager/setup.go:159","msg":"Creating archive of target directory: C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG"}
+{"level":"debug","time":"2023-08-28T23:13:42.829+0530","caller":"core/lifecycle.go:510","msg":"Zip file size: 208.90 kB"}
+{"level":"debug","time":"2023-08-28T23:13:42.829+0530","caller":"core/lifecycle.go:520","msg":"Archive location: C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\hyperexecute-code-b38fad4f-46b9-41aa-89e9-c04a3c6556b0.zip\n"}
+{"level":"debug","time":"2023-08-28T23:13:42.843+0530","caller":"storage/azure.go:55","msg":"Payload size: 208.90 kB, source path C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\hyperexecute-code-b38fad4f-46b9-41aa-89e9-c04a3c6556b0.zip"}
+{"level":"debug","time":"2023-08-28T23:13:48.292+0530","caller":"receptionmanager/setup.go:143","msg":"Uploading yaml : C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2023-08-28T23:13:48.301+0530","caller":"storage/azure.go:55","msg":"Payload size: 1.92 kB, source path C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\.updatedhyperexecute.yaml"}
+{"level":"debug","time":"2023-08-28T23:13:51.616+0530","caller":"core/lifecycle.go:548","msg":"Successfully deleted code archive: C:\\Users\\ritamg\\Documents\\GitHub\\LT_hyperx_Jenkins_TestNG\\testNG\\hyperexecute-code-b38fad4f-46b9-41aa-89e9-c04a3c6556b0.zip\n"}
+{"level":"info","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:129","msg":"Job b38fad4f-46b9-41aa-89e9-c04a3c6556b0 has started RUNNING"}
+{"level":"info","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:367","msg":"Job Link: https://hyperexecute.lambdatest.com/hyperexecute/task?jobId=b38fad4f-46b9-41aa-89e9-c04a3c6556b0\n"}
+{"level":"debug","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:138","msg":"New Tasks generated"}
+{"level":"debug","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:149","msg":"Task id: ae615e49-0626-4195-8185-85757654d246"}
+{"level":"debug","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:152","msg":"Sending new task alert to stage manager for taskId: ae615e49-0626-4195-8185-85757654d246"}
+{"level":"debug","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:149","msg":"Task id: 5116c723-7c2e-41a9-a212-dc5382611278"}
+{"level":"debug","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:152","msg":"Sending new task alert to stage manager for taskId: 5116c723-7c2e-41a9-a212-dc5382611278"}
+{"level":"debug","time":"2023-08-28T23:13:58.216+0530","caller":"jobmanager/setup.go:149","msg":"Task id: 521ec51b-6a51-49ff-8e56-236fbb08bad7"}
+{"level":"debug","time":"2023-08-28T23:13:58.217+0530","caller":"jobmanager/setup.go:152","msg":"Sending new task alert to stage manager for taskId: 521ec51b-6a51-49ff-8e56-236fbb08bad7"}
+{"level":"debug","time":"2023-08-28T23:13:58.217+0530","caller":"jobmanager/setup.go:149","msg":"Task id: 532e159c-d219-4dcf-8a70-efa3e6277a6a"}
+{"level":"debug","time":"2023-08-28T23:13:58.217+0530","caller":"jobmanager/setup.go:152","msg":"Sending new task alert to stage manager for taskId: 532e159c-d219-4dcf-8a70-efa3e6277a6a"}
+{"level":"info","time":"2023-08-28T23:13:58.541+0530","caller":"terminal/terminal.go:185","msg":"✔ [1]  cache-download (2s)\n"}
+{"level":"info","time":"2023-08-28T23:13:59.236+0530","caller":"terminal/terminal.go:185","msg":"✔ [2]  cache-download (2s)\n"}
+{"level":"info","time":"2023-08-28T23:14:00.380+0530","caller":"terminal/terminal.go:185","msg":"✔ [3]  cache-download (2s)\n"}
+{"level":"info","time":"2023-08-28T23:14:01.814+0530","caller":"terminal/terminal.go:185","msg":"✔ [4]  cache-download (2s)\n"}
+{"level":"info","time":"2023-08-28T23:14:08.960+0530","caller":"terminal/terminal.go:185","msg":"✔ [4]  pre (7s)\n"}
+{"level":"info","time":"2023-08-28T23:14:09.280+0530","caller":"terminal/terminal.go:185","msg":"✔ [1]  pre (6s)\n"}
+{"level":"info","time":"2023-08-28T23:14:09.605+0530","caller":"terminal/terminal.go:185","msg":"✔ [2]  pre (7s)\n"}
+{"level":"info","time":"2023-08-28T23:14:09.926+0530","caller":"terminal/terminal.go:185","msg":"✔ [3]  pre (7s)\n"}
+{"level":"info","time":"2023-08-28T23:14:13.476+0530","caller":"terminal/terminal.go:185","msg":"✔ [1]  discovery (1s)\n"}
+{"level":"info","time":"2023-08-28T23:14:13.802+0530","caller":"terminal/terminal.go:185","msg":"✔ [2]  discovery (1s)\n"}
+{"level":"info","time":"2023-08-28T23:14:14.127+0530","caller":"terminal/terminal.go:185","msg":"✔ [3]  discovery (1s)\n"}
+{"level":"info","time":"2023-08-28T23:14:14.445+0530","caller":"terminal/terminal.go:185","msg":"✔ [4]  discovery (1s)\n"}
+{"level":"info","time":"2023-08-28T23:15:36.024+0530","caller":"terminal/terminal.go:185","msg":"✔ [1]  Test1#test1_element_addition_1 (1m16s)\n"}
+{"level":"info","time":"2023-08-28T23:16:03.458+0530","caller":"terminal/terminal.go:185","msg":"✔ [4]  Test2#test2_element_addition_1 (1m42s)\n"}
+{"level":"info","time":"2023-08-28T23:16:07.406+0530","caller":"terminal/terminal.go:185","msg":"✔ [4]  post (1s)\n"}
+{"level":"info","time":"2023-08-28T23:16:20.258+0530","caller":"terminal/terminal.go:185","msg":"✔ [4]  cache-upload (2s)\n"}
+{"level":"info","time":"2023-08-28T23:16:32.970+0530","caller":"terminal/terminal.go:185","msg":"✔ [1]  Test1#test1_element_addition_2 (58s)\n"}
+{"level":"info","time":"2023-08-28T23:16:37.141+0530","caller":"terminal/terminal.go:185","msg":"✔ [1]  post (2s)\n"}
+{"level":"info","time":"2023-08-28T23:16:40.338+0530","caller":"terminal/terminal.go:185","msg":"✔ [2]  Test3#test3_element_addition_1 (2m18s)\n"}
+{"level":"info","time":"2023-08-28T23:16:44.442+0530","caller":"terminal/terminal.go:185","msg":"✔ [2]  post (1s)\n"}
+{"level":"info","time":"2023-08-28T23:16:49.500+0530","caller":"terminal/terminal.go:185","msg":"✔ [1]  cache-upload (2s)\n"}
+{"level":"info","time":"2023-08-28T23:16:52.789+0530","caller":"terminal/terminal.go:185","msg":"✔ [3]  Test4#test4_element_addition_1 (2m31s)\n"}
+{"level":"info","time":"2023-08-28T23:16:55.492+0530","caller":"terminal/terminal.go:185","msg":"✔ [3]  post (1s)\n"}
+{"level":"info","time":"2023-08-28T23:16:56.558+0530","caller":"terminal/terminal.go:185","msg":"✔ [2]  cache-upload (2s)\n"}
+{"level":"debug","time":"2023-08-28T23:17:08.173+0530","caller":"jobmanager/setup.go:204","msg":"\n\nJob status"}
+{"level":"info","time":"2023-08-28T23:17:08.173+0530","caller":"jobmanager/JobSummaryManager.go:37","msg":"\n COMPLETED \n"}
+{"level":"info","time":"2023-08-28T23:17:08.173+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Test Execution Time:                  2m1s"}
+{"level":"info","time":"2023-08-28T23:17:08.173+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Job Duration Time:                    3m9s"}
+{"level":"info","time":"2023-08-28T23:17:08.173+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Total Tasks:                          4"}
+{"level":"info","time":"2023-08-28T23:17:08.173+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Cumulative Time Consumed:             11m16s"}
+{"level":"info","time":"2023-08-28T23:17:08.173+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Total Stages:                         17"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Pass discovery stage percentage:      100.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Failed discovery stage percentage:    0.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Pass pre stage percentage:            100.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Failed pre stage percentage:          0.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Pass test stage percentage:           100.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Failed test stage percentage:         0.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Pass post stage percentage:           100.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Failed post stage percentage:         0.00%"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:96","msg":"    Failed Tasks:                         0"}
+{"level":"info","time":"2023-08-28T23:17:08.174+0530","caller":"jobmanager/JobSummaryManager.go:41","msg":""}
+{"level":"info","time":"2023-08-28T23:17:08.320+0530","caller":"terminal/terminal.go:185","msg":"✔ [3]  cache-upload (1s)\n"}
+{"level":"debug","time":"2023-08-28T23:17:09.294+0530","caller":"artifactsmanager/downloadv0.1.go:98","msg":"\nArtifacts ready to be downloaded for task id: ae615e49-0626-4195-8185-85757654d246\n"}
+{"level":"debug","time":"2023-08-28T23:17:09.709+0530","caller":"artifactsmanager/downloadv0.1.go:135","msg":"\nDownloading artefacts for task id: ae615e49-0626-4195-8185-85757654d246\n"}
+{"level":"debug","time":"2023-08-28T23:17:15.249+0530","caller":"artifactsmanager/downloadv0.1.go:141","msg":"\nDownloading artefacts completed successfully for task id: ae615e49-0626-4195-8185-85757654d246\n"}
+{"level":"debug","time":"2023-08-28T23:17:15.643+0530","caller":"artifactsmanager/downloadv0.1.go:98","msg":"\nArtifacts ready to be downloaded for task id: 5116c723-7c2e-41a9-a212-dc5382611278\n"}
+{"level":"debug","time":"2023-08-28T23:17:15.976+0530","caller":"artifactsmanager/downloadv0.1.go:135","msg":"\nDownloading artefacts for task id: 5116c723-7c2e-41a9-a212-dc5382611278\n"}
+{"level":"debug","time":"2023-08-28T23:17:21.481+0530","caller":"artifactsmanager/downloadv0.1.go:141","msg":"\nDownloading artefacts completed successfully for task id: 5116c723-7c2e-41a9-a212-dc5382611278\n"}
+{"level":"debug","time":"2023-08-28T23:17:21.889+0530","caller":"artifactsmanager/downloadv0.1.go:98","msg":"\nArtifacts ready to be downloaded for task id: 521ec51b-6a51-49ff-8e56-236fbb08bad7\n"}
+{"level":"debug","time":"2023-08-28T23:17:22.305+0530","caller":"artifactsmanager/downloadv0.1.go:135","msg":"\nDownloading artefacts for task id: 521ec51b-6a51-49ff-8e56-236fbb08bad7\n"}
+{"level":"debug","time":"2023-08-28T23:17:29.788+0530","caller":"artifactsmanager/downloadv0.1.go:141","msg":"\nDownloading artefacts completed successfully for task id: 521ec51b-6a51-49ff-8e56-236fbb08bad7\n"}
+{"level":"debug","time":"2023-08-28T23:17:30.136+0530","caller":"artifactsmanager/downloadv0.1.go:98","msg":"\nArtifacts ready to be downloaded for task id: 532e159c-d219-4dcf-8a70-efa3e6277a6a\n"}
+{"level":"debug","time":"2023-08-28T23:17:30.496+0530","caller":"artifactsmanager/downloadv0.1.go:135","msg":"\nDownloading artefacts for task id: 532e159c-d219-4dcf-8a70-efa3e6277a6a\n"}
+{"level":"debug","time":"2023-08-28T23:17:36.040+0530","caller":"artifactsmanager/downloadv0.1.go:141","msg":"\nDownloading artefacts completed successfully for task id: 532e159c-d219-4dcf-8a70-efa3e6277a6a\n"}
+{"level":"debug","time":"2023-08-28T23:17:36.040+0530","caller":"core/lifecycle.go:712","msg":"Context canceled"}
+{"level":"debug","time":"2023-08-28T23:17:36.041+0530","caller":"apiserver/setup.go:94","msg":"Shutting down the api server"}
+{"level":"info","time":"2023-08-28T23:17:36.041+0530","caller":"core/lifecycle.go:715","msg":"Stopping pipeline gracefully"}
+{"level":"debug","time":"2023-08-28T23:17:36.041+0530","caller":"core/lifecycle.go:718","msg":"Quit requested from main goroutine...."}
+{"level":"debug","time":"2023-08-28T23:17:36.041+0530","caller":"core/lifecycle.go:719","msg":"Waiting for the goroutines to exit"}
+{"level":"debug","time":"2023-08-28T23:17:36.042+0530","caller":"core/lifecycle.go:721","msg":"All goroutines exited"}
+{"level":"info","time":"2023-08-28T23:17:36.042+0530","caller":"jobmanager/setup.go:367","msg":"Job Link: https://hyperexecute.lambdatest.com/hyperexecute/task?jobId=b38fad4f-46b9-41aa-89e9-c04a3c6556b0\n"}
+{"level":"debug","time":"2023-08-28T23:17:36.043+0530","caller":"cmd/bin.go:255","msg":"main: all goroutines have finished."}
